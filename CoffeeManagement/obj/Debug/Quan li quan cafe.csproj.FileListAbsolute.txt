@@ -1,0 +1,96 @@
+C:\Users\ADMIN\source\Quan li quan cafe\Quan li quan cafe\bin\Debug\Quan li quan cafe.exe.config
+C:\Users\ADMIN\source\Quan li quan cafe\Quan li quan cafe\bin\Debug\Quan li quan cafe.exe
+C:\Users\ADMIN\source\Quan li quan cafe\Quan li quan cafe\bin\Debug\Quan li quan cafe.pdb
+C:\Users\ADMIN\source\Quan li quan cafe\Quan li quan cafe\obj\Debug\Quan li quan cafe.csprojAssemblyReference.cache
+C:\Users\ADMIN\source\Quan li quan cafe\Quan li quan cafe\obj\Debug\Quan_li_quan_cafe.LogInForm.resources
+C:\Users\ADMIN\source\Quan li quan cafe\Quan li quan cafe\obj\Debug\Quan_li_quan_cafe.Properties.Resources.resources
+C:\Users\ADMIN\source\Quan li quan cafe\Quan li quan cafe\obj\Debug\Quan li quan cafe.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\Quan li quan cafe\Quan li quan cafe\obj\Debug\Quan li quan cafe.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\Quan li quan cafe\Quan li quan cafe\obj\Debug\Quan li quan cafe.exe
+C:\Users\ADMIN\source\Quan li quan cafe\Quan li quan cafe\obj\Debug\Quan li quan cafe.pdb
+C:\Users\ADMIN\source\Quan li quan cafe\Quan li quan cafe\bin\Debug\aa-DJ\Quan li quan cafe.resources.dll
+C:\Users\ADMIN\source\Quan li quan cafe\Quan li quan cafe\obj\Debug\Quan_li_quan_cafe.FunctFrom.resources
+C:\Users\ADMIN\source\Quan li quan cafe\Quan li quan cafe\obj\Debug\Quan_li_quan_cafe.FunctFrom.aa-DJ.resources
+C:\Users\ADMIN\source\Quan li quan cafe\Quan li quan cafe\obj\Debug\aa-DJ\Quan li quan cafe.resources.dll
+C:\Users\ADMIN\source\Quan li quan cafe\Quan li quan cafe\obj\Debug\Quan_li_quan_cafe.AccountInfoForm.resources
+C:\Users\ADMIN\source\Quan li quan cafe\Quan li quan cafe\obj\Debug\Quan_li_quan_cafe.AdminForm.resources
+C:\Users\ADMIN\source\Quan li quan cafe\Quan li quan cafe\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\ADMIN\source\Quan li quan cafe\Quan li quan cafe\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\ADMIN\source\Quan li quan cafe\Quan li quan cafe\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\ADMIN\source\Quan li quan cafe\Quan li quan cafe\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\ADMIN\source\Quan li quan cafe\Quan li quan cafe\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\ADMIN\source\Quan li quan cafe\Quan li quan cafe\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\ADMIN\source\Quan li quan cafe\Quan li quan cafe\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\ADMIN\source\Quan li quan cafe\Quan li quan cafe\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\ADMIN\source\Quan li quan cafe\Quan li quan cafe\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\ADMIN\source\Quan li quan cafe\Quan li quan cafe\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\ADMIN\source\Quan li quan cafe\Quan li quan cafe\bin\Debug\EnvDTE.dll
+C:\Users\ADMIN\source\Quan li quan cafe\Quan li quan cafe\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\ADMIN\source\Quan li quan cafe\Quan li quan cafe\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\ADMIN\source\Quan li quan cafe\Quan li quan cafe\bin\Debug\EnvDTE80.dll
+C:\Users\ADMIN\source\Quan li quan cafe\Quan li quan cafe\bin\Debug\stdole.dll
+C:\Users\ADMIN\source\Quan li quan cafe\Quan li quan cafe\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\ADMIN\source\Quan li quan cafe\Quan li quan cafe\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\ADMIN\source\Quan li quan cafe\Quan li quan cafe\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\ADMIN\source\Quan li quan cafe\Quan li quan cafe\bin\Debug\Microsoft.MSXML.dll
+C:\Users\ADMIN\source\Quan li quan cafe\Quan li quan cafe\bin\Debug\cs\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\source\Quan li quan cafe\Quan li quan cafe\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\source\Quan li quan cafe\Quan li quan cafe\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\source\Quan li quan cafe\Quan li quan cafe\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\source\Quan li quan cafe\Quan li quan cafe\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\source\Quan li quan cafe\Quan li quan cafe\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\source\Quan li quan cafe\Quan li quan cafe\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\source\Quan li quan cafe\Quan li quan cafe\bin\Debug\pl\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\source\Quan li quan cafe\Quan li quan cafe\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\source\Quan li quan cafe\Quan li quan cafe\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\source\Quan li quan cafe\Quan li quan cafe\bin\Debug\tr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\source\Quan li quan cafe\Quan li quan cafe\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\source\Quan li quan cafe\Quan li quan cafe\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\source\Quan li quan cafe\Quan li quan cafe\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\source\Quan li quan cafe\Quan li quan cafe\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\source\Quan li quan cafe\Quan li quan cafe\bin\Debug\cs\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\source\Quan li quan cafe\Quan li quan cafe\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\source\Quan li quan cafe\Quan li quan cafe\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\source\Quan li quan cafe\Quan li quan cafe\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\source\Quan li quan cafe\Quan li quan cafe\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\source\Quan li quan cafe\Quan li quan cafe\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\source\Quan li quan cafe\Quan li quan cafe\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\source\Quan li quan cafe\Quan li quan cafe\bin\Debug\pl\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\source\Quan li quan cafe\Quan li quan cafe\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\source\Quan li quan cafe\Quan li quan cafe\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\source\Quan li quan cafe\Quan li quan cafe\bin\Debug\tr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\source\Quan li quan cafe\Quan li quan cafe\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\source\Quan li quan cafe\Quan li quan cafe\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\source\Quan li quan cafe\Quan li quan cafe\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\source\Quan li quan cafe\Quan li quan cafe\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\source\Quan li quan cafe\Quan li quan cafe\bin\Debug\cs\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\source\Quan li quan cafe\Quan li quan cafe\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\source\Quan li quan cafe\Quan li quan cafe\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\source\Quan li quan cafe\Quan li quan cafe\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\source\Quan li quan cafe\Quan li quan cafe\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\source\Quan li quan cafe\Quan li quan cafe\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\source\Quan li quan cafe\Quan li quan cafe\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\source\Quan li quan cafe\Quan li quan cafe\bin\Debug\pl\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\source\Quan li quan cafe\Quan li quan cafe\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\source\Quan li quan cafe\Quan li quan cafe\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\source\Quan li quan cafe\Quan li quan cafe\bin\Debug\tr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\source\Quan li quan cafe\Quan li quan cafe\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\source\Quan li quan cafe\Quan li quan cafe\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\source\Quan li quan cafe\Quan li quan cafe\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\source\Quan li quan cafe\Quan li quan cafe\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\source\Quan li quan cafe\Quan li quan cafe\bin\Debug\cs\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\source\Quan li quan cafe\Quan li quan cafe\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\source\Quan li quan cafe\Quan li quan cafe\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\source\Quan li quan cafe\Quan li quan cafe\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\source\Quan li quan cafe\Quan li quan cafe\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\source\Quan li quan cafe\Quan li quan cafe\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\source\Quan li quan cafe\Quan li quan cafe\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\source\Quan li quan cafe\Quan li quan cafe\bin\Debug\pl\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\source\Quan li quan cafe\Quan li quan cafe\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\source\Quan li quan cafe\Quan li quan cafe\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\source\Quan li quan cafe\Quan li quan cafe\bin\Debug\tr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\source\Quan li quan cafe\Quan li quan cafe\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\source\Quan li quan cafe\Quan li quan cafe\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\source\Quan li quan cafe\Quan li quan cafe\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\source\Quan li quan cafe\Quan li quan cafe\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\source\Quan li quan cafe\Quan li quan cafe\obj\Debug\Quan li quan cafe.csproj.CopyComplete
